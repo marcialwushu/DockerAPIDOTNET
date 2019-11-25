@@ -1,0 +1,10 @@
+C:\Users\carlosjunior\Documents\Workspace\MVS\PorjectDOTNET\DockerAPI\bin\Debug\netcoreapp2.0\DockerAPI.deps.json
+C:\Users\carlosjunior\Documents\Workspace\MVS\PorjectDOTNET\DockerAPI\bin\Debug\netcoreapp2.0\DockerAPI.runtimeconfig.json
+C:\Users\carlosjunior\Documents\Workspace\MVS\PorjectDOTNET\DockerAPI\bin\Debug\netcoreapp2.0\DockerAPI.runtimeconfig.dev.json
+C:\Users\carlosjunior\Documents\Workspace\MVS\PorjectDOTNET\DockerAPI\bin\Debug\netcoreapp2.0\DockerAPI.dll
+C:\Users\carlosjunior\Documents\Workspace\MVS\PorjectDOTNET\DockerAPI\bin\Debug\netcoreapp2.0\DockerAPI.pdb
+C:\Users\carlosjunior\Documents\Workspace\MVS\PorjectDOTNET\DockerAPI\obj\Debug\netcoreapp2.0\DockerAPI.csproj.CoreCompileInputs.cache
+C:\Users\carlosjunior\Documents\Workspace\MVS\PorjectDOTNET\DockerAPI\obj\Debug\netcoreapp2.0\DockerAPI.AssemblyInfoInputs.cache
+C:\Users\carlosjunior\Documents\Workspace\MVS\PorjectDOTNET\DockerAPI\obj\Debug\netcoreapp2.0\DockerAPI.AssemblyInfo.cs
+C:\Users\carlosjunior\Documents\Workspace\MVS\PorjectDOTNET\DockerAPI\obj\Debug\netcoreapp2.0\DockerAPI.dll
+C:\Users\carlosjunior\Documents\Workspace\MVS\PorjectDOTNET\DockerAPI\obj\Debug\netcoreapp2.0\DockerAPI.pdb
